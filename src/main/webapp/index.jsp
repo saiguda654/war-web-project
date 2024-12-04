@@ -6,6 +6,6 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>WAR Web Service from leo</h1>
+	<h1>WAR Web Service from leo fancy</h1>
 </body>
 </html>
