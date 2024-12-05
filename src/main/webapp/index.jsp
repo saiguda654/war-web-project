@@ -6,6 +6,6 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>WAR Web Service from vinsys organisation</h1>
+	<h1>WAR Web Service from vinsys organisation,a have a great day</h1>
 </body>
 </html>
