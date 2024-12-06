@@ -6,6 +6,6 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>Welcome to Friday Sale, grab the opporutunity with 100% discount, thank you...</h1>
+	<h1>Welcome to Friday Sale, grab the opporutunity with 200% discount, thank you...</h1>
 </body>
 </html>
